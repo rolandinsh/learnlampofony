@@ -1,7 +1,7 @@
 ﻿== UBUNTU ==
 
-upgrade: in a terminal
-do-release-upgrade -d
+`upgrade: in a terminal`
+`do-release-upgrade -d`
 
 and later (after update/upgrade)
 do-release-upgrade
