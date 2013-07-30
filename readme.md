@@ -25,16 +25,11 @@ Find current IP on which server "sits"
 
 Seting up hostname (Optional) https://library.linode.com/getting-started#sph_setting-the-hostname
 
-For virtualbox we can leave default as host https://library.linode.com/hosting-website#sph_web-server So You'll need just to change VirtualHost
-
-Leaving `DocumentRoot /var/www` as is
-
-Witout
-
-`
+For virtualbox we can leave default as host https://library.linode.com/hosting-website#sph_web-server So You'll need just to change `VirtualHost` Leaving `DocumentRoot /var/www` as is witout 
+```
   ServerName  www.example.com
   ServerAlias example.com
-`
+```
 
 ## FTPS
 
