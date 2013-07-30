@@ -1,4 +1,4 @@
-﻿## UBUNTU
+﻿# UBUNTU
 
 `upgrade: in a terminal`
 `do-release-upgrade -d`
