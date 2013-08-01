@@ -21,6 +21,10 @@ Find current IP on which server "sits"
 
 `ifconfig` and/or `ifconfig -a`
 
+### Security
+
+http://www.thefanclub.co.za/how-to/how-install-apache2-modsecurity-and-modevasive-ubuntu-1204-lts-server
+
 ### VirtualHost
 
 Seting up hostname (Optional) https://library.linode.com/getting-started#sph_setting-the-hostname
