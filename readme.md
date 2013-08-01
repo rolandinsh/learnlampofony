@@ -25,6 +25,8 @@ Find current IP on which server "sits"
 
 http://www.thefanclub.co.za/how-to/how-install-apache2-modsecurity-and-modevasive-ubuntu-1204-lts-server
 
+http://www.thefanclub.co.za/how-to/how-secure-ubuntu-1204-lts-server-part-1-basics
+
 ### VirtualHost
 
 Seting up hostname (Optional) https://library.linode.com/getting-started#sph_setting-the-hostname
