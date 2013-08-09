@@ -31,6 +31,12 @@ For virtualbox we can leave default as host https://library.linode.com/hosting-w
   ServerAlias example.com
 ```
 
+## PHP
+
+### 5.5.x
+
+If timezone is "wrong", look for php.ini `sudo php -i | grep 'Configuration File'`
+
 ## FTPS
 
 https://help.ubuntu.com/10.04/serverguide/ftp-server.html
