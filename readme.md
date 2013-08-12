@@ -37,6 +37,10 @@ For virtualbox we can leave default as host https://library.linode.com/hosting-w
   ServerAlias example.com
 ```
 
+### Nice URLs
+
+`sudo a2enmod rewrite`
+
 ## PHP
 
 ### 5.5.x
