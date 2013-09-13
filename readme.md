@@ -6,6 +6,9 @@
 and later (after update/upgrade)
 
 `do-release-upgrade`
+## SHARED directory
+
+[virtuscomputing.com How To: Share folders in Ubuntu Server with Windows using Samba](http://virtuscomputing.com/how-to-share-folders-in-ubuntu-server-with-windows-using-samba/)
 
 ## USERS
 
